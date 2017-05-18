@@ -1,0 +1,19 @@
+{
+    "name": "maniaplanet/oauth2-maniaplanet",
+    "description": "Maniaplanet provider for league/oauth2-client",
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Baptiste Lafontaine",
+            "email": "baptiste@nadeo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Maniaplanet\\OAuth2\\Client\\Maniaplanet\\": "src/"
+        }
+    },
+    "require": {
+        "league/oauth2-client": "^2.2"
+    }
+}
