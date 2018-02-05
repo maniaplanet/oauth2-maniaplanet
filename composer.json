@@ -1,7 +1,7 @@
 {
     "name": "maniaplanet/oauth2-maniaplanet",
     "description": "Maniaplanet provider for league/oauth2-client",
-    "license": "LGPL-3.0",
+    "license": "LGPL-3.0-or-later",
     "authors": [
         {
             "name": "Baptiste Lafontaine",
